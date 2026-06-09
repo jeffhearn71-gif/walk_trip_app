@@ -12,15 +12,15 @@ Animals,Birds - Species,Seagull,3,FALSE,Animals_Birds - Species_Seagull,Animals_
 Animals,Domestic,Cat,2,FALSE,Animals_Domestic_Cat,Animals_Domestic_Cat,pets,animals,Animal crackers!
 Animals,Domestic,Dog,1,FALSE,Animals_Domestic_Dog,Animals_Domestic_Dog,pets,animals,Animal crackers!
 Buildings,Houses,CCTV Camera,2,FALSE,Buildings_Houses_CCTV Camera,Buildings_Houses_CCTV Camera,home,location|wavelength,Location location location!|Same wavelength!
-Buildings,Houses,Door: Black,1,FALSE,Buildings_Houses_Door: Black,Buildings_Houses_Door Black,home,location|rainbow,Location location location!|Over the rainbow!
-Buildings,Houses,Door: Blue,2,FALSE,Buildings_Houses_Door: Blue,Buildings_Houses_Door Blue,home,location|rainbow,Location location location!|Over the rainbow!
-Buildings,Houses,Door: Green,2,FALSE,Buildings_Houses_Door: Green,Buildings_Houses_Door Green,home,location|rainbow,Location location location!|Over the rainbow!
-Buildings,Houses,Door: Other,1,FALSE,Buildings_Houses_Door: Other,Buildings_Houses_Door Other,home,location|rainbow,Location location location!|Over the rainbow!
-Buildings,Houses,Door: Red,2,FALSE,Buildings_Houses_Door: Red,Buildings_Houses_Door Red,home,location|rainbow,Location location location!|Over the rainbow!
-Buildings,Houses,Door: White,1,FALSE,Buildings_Houses_Door: White,Buildings_Houses_Door White,home,location|rainbow,Location location location!|Over the rainbow!
+Buildings,Houses,Door: Black,1,FALSE,Buildings_Houses_Door: Black,Buildings_Houses_Door Black,home,location|colour,Location location location!|Over the rainbow!
+Buildings,Houses,Door: Blue,2,FALSE,Buildings_Houses_Door: Blue,Buildings_Houses_Door Blue,home,location|colour,Location location location!|Over the rainbow!
+Buildings,Houses,Door: Green,2,FALSE,Buildings_Houses_Door: Green,Buildings_Houses_Door Green,home,location|colour,Location location location!|Over the rainbow!
+Buildings,Houses,Door: Other,1,FALSE,Buildings_Houses_Door: Other,Buildings_Houses_Door Other,home,location|colour,Location location location!|Over the rainbow!
+Buildings,Houses,Door: Red,2,FALSE,Buildings_Houses_Door: Red,Buildings_Houses_Door Red,home,location|colour,Location location location!|Over the rainbow!
+Buildings,Houses,Door: White,1,FALSE,Buildings_Houses_Door: White,Buildings_Houses_Door White,home,location|colour,Location location location!|Over the rainbow!
 Buildings,Houses,Door or Window Open,2,FALSE,Buildings_Houses_Door or Window Open,Buildings_Houses_Door Open,home,location,Location location location!
 Buildings,Houses,Hanging basket,2,FALSE,Buildings_Houses_Hanging basket,Buildings_Houses_Basket,home,location,Location location location!
-Buildings,Houses,Painted,1,FALSE,Buildings_Houses_Painted,Buildings_Houses_Painted,home,location|rainbow,Location location location!|Over the rainbow!
+Buildings,Houses,Painted,1,FALSE,Buildings_Houses_Painted,Buildings_Houses_Painted,home,location|colour,Location location location!|Over the rainbow!
 Buildings,Houses,Satellite Dish,1,FALSE,Buildings_Houses_Satellite Dish,Buildings_Houses_Satellite Dish,home,location|wavelength,Location location location!|Same wavelength!
 Buildings,Houses,Skylight,1,FALSE,Buildings_Houses_Skylight,Buildings_Houses_Skylight,home,location,Location location location!
 Buildings,Houses,Solar Panels,2,FALSE,Buildings_Houses_Solar Panels,Buildings_Houses_Solar Panels,home,location|wavelength,Location location location!|Same wavelength!
@@ -46,13 +46,13 @@ Buildings,Shops,Petrol station,1,FALSE,Buildings_Shops_Petrol station,Buildings_
 Buildings,Shops,Pub,2,FALSE,Buildings_Shops_Pub,Buildings_Shops_Pub,storefront,shop_drop,Shop 'til you drop!
 Buildings,Shops,Pharmacy,3,FALSE,Buildings_Shops_Pharmacy,Buildings_Shops_Pharmacy,storefront,shop_drop,Shop 'til you drop!
 Buildings,Shops,Restaurant,1,FALSE,Buildings_Shops_Restaurant,Buildings_Shops_Restaurant,storefront,eating,Eatings cheatin'!
-Car,Colours,Colour: Brown,1,FALSE,Car_Colours_Colour: Brown,Car_Colours_Brown,palette,rainbow,Over the rainbow!
-Car,Colours,Colour: Green,1,FALSE,Car_Colours_Colour: Green,Car_Colours_Green,palette,rainbow,Over the rainbow!
-Car,Colours,Colour: Orange,2,FALSE,Car_Colours_Colour: Orange,Car_Colours_Orange,palette,rainbow,Over the rainbow!
-Car,Colours,Colour: Pink,4,FALSE,Car_Colours_Colour: Pink,Car_Colours_Pink,palette,rainbow,Over the rainbow!
-Car,Colours,Colour: Purple,3,FALSE,Car_Colours_Colour: Purple,Car_Colours_Purple,palette,rainbow,Over the rainbow!
-Car,Colours,Colour: Two-toned,1,FALSE,Car_Colours_Colour: Two-toned,Car_Colours_Two-toned,palette,rainbow,Over the rainbow!
-Car,Colours,Colour: Yellow,1,FALSE,Car_Colours_Colour: Yellow,Car_Colours_Yellow,palette,rainbow,Over the rainbow!
+Car,Colours,Colour: Brown,1,FALSE,Car_Colours_Colour: Brown,Car_Colours_Brown,palette,colour,Over the rainbow!
+Car,Colours,Colour: Green,1,FALSE,Car_Colours_Colour: Green,Car_Colours_Green,palette,colour,Over the rainbow!
+Car,Colours,Colour: Orange,2,FALSE,Car_Colours_Colour: Orange,Car_Colours_Orange,palette,colour,Over the rainbow!
+Car,Colours,Colour: Pink,4,FALSE,Car_Colours_Colour: Pink,Car_Colours_Pink,palette,colour,Over the rainbow!
+Car,Colours,Colour: Purple,3,FALSE,Car_Colours_Colour: Purple,Car_Colours_Purple,palette,colour,Over the rainbow!
+Car,Colours,Colour: Two-toned,1,FALSE,Car_Colours_Colour: Two-toned,Car_Colours_Two-toned,palette,colour,Over the rainbow!
+Car,Colours,Colour: Yellow,1,FALSE,Car_Colours_Colour: Yellow,Car_Colours_Yellow,palette,colour,Over the rainbow!
 Car,External Items,Bike on a boot,1,FALSE,Car_External Items_Bike on a boot,Car_External Items_Bike-boot,directions_car,bike,On yer bike!
 Car,External Items,Bike on a roof rack,1,FALSE,Car_External Items_Bike on a roof rack,Car_External Items_Bike-roof,directions_car,bike,On yer bike!
 Car,External Items,Car with advertising on it,1,FALSE,Car_External Items_Car with advertising on it,Car_External Items_Advertising,directions_car,,
@@ -108,9 +108,9 @@ Misc - Items,Bins,Biffa Bin,2,FALSE,Misc - Items_Bins_Biffa Bin,Misc - Items_Bin
 Misc - Items,Bins,Dog poo bin,2,FALSE,Misc - Items_Bins_Dog poo bin,Misc - Items_Bins_Dog poo,recycling,bin,It's bin a long time coming!
 Misc - Items,Bins,Litter bin,2,FALSE,Misc - Items_Bins_Litter bin,Misc - Items_Bins_Litter,recycling,bin,It's bin a long time coming!
 Misc - Items,Bins,Recycling Box,1,FALSE,Misc - Items_Bins_Recycling Box,Misc - Items_Bins_Recycling,recycling,bin,It's bin a long time coming!
-Misc - Items,Bins,Colour: Grey,1,FALSE,Misc - Items_Bins_Colour: Grey,Misc - Items_Bins_Grey,recycling,bin|rainbow,It's bin a long time coming!|Over the rainbow!
-Misc - Items,Bins,Colour: Brown,2,FALSE,Misc - Items_Bins_Colour: Brown,Misc - Items_Bins_Brown,recycling,bin|rainbow,It's bin a long time coming!|Over the rainbow!
-Misc - Items,Bins,Colour: Green,1,FALSE,Misc - Items_Bins_Colour: Green,Misc - Items_Bins_Green,recycling,bin|rainbow,It's bin a long time coming!|Over the rainbow!
+Misc - Items,Bins,Colour: Grey,1,FALSE,Misc - Items_Bins_Colour: Grey,Misc - Items_Bins_Grey,recycling,bin|colour,It's bin a long time coming!|Over the rainbow!
+Misc - Items,Bins,Colour: Brown,2,FALSE,Misc - Items_Bins_Colour: Brown,Misc - Items_Bins_Brown,recycling,bin|colour,It's bin a long time coming!|Over the rainbow!
+Misc - Items,Bins,Colour: Green,1,FALSE,Misc - Items_Bins_Colour: Green,Misc - Items_Bins_Green,recycling,bin|colour,It's bin a long time coming!|Over the rainbow!
 Misc - Items,Construction,Skip,1,FALSE,Misc - Items_Construction_Skip,Misc - Items_Construction_Skip,construction,bin|builder,It's bin a long time coming!|Bob the builder!
 Misc - Items,Construction,Portaloo,3,FALSE,Misc - Items_Construction_Portaloo,Misc - Items_Construction_Portaloo,construction,builder,Bob the builder!
 Misc - Items,Construction,Crane,3,FALSE,Misc - Items_Construction_Crane,Misc - Items_Construction_Crane,construction,builder,Bob the builder!
@@ -171,17 +171,17 @@ Parks & Nature,Playground,Ball,3,FALSE,Parks & Nature_Playground_Ball,Parks & Na
 Parks & Nature,Playground,Equipment,2,FALSE,Parks & Nature_Playground_Equipment,Parks & Nature_Playground_Equipment,child_care,naturel,Au naturel!
 Parks & Nature,Playground,Football Posts,2,FALSE,Parks & Nature_Playground_Football Posts,Parks & Nature_Playground_Football Posts,child_care,naturel,Au naturel!
 Road,Floor Markings,Bus Lane/Stop,1,FALSE,Road_Floor Markings_Bus Lane/Stop,Road_Floor Markings_Bus Lane/Stop,road,bus_coach|middle_road,Bus-ted!|Middle of the road!
-Road,Floor Markings,Double Yellow Lines,1,FALSE,Road_Floor Markings_Double Yellow Lines,Road_Floor Markings_Double Yellow Lines,road,rainbow|middle_road,Over the rainbow!|Middle of the road!
+Road,Floor Markings,Double Yellow Lines,1,FALSE,Road_Floor Markings_Double Yellow Lines,Road_Floor Markings_Double Yellow Lines,road,colour|middle_road,Over the rainbow!|Middle of the road!
 Road,Floor Markings,Keep Clear/No Entry,2,FALSE,Road_Floor Markings_Keep Clear/No Entry,Road_Floor Markings_Keep Clear,road,middle_road,Middle of the road!
 Road,Floor Markings,Speed Bump,2,FALSE,Road_Floor Markings_Speed Bump,Road_Floor Markings_Speed Bump,road,speed_freak|middle_road,Speed freak!|Middle of the road!
 Road,Floor Markings,Slow,1,FALSE,Road_Floor Markings_Slow,Road_Floor Markings_Slow,road,middle_road,Middle of the road!
 Road,Floor Markings,Speed Limit (Any),2,FALSE,Road_Floor Markings_Speed Limit (Any),Road_Floor Markings_Speed Limit (Any),road,speed_freak|middle_road,Speed freak!|Middle of the road!
 Road,Floor Markings,Zebra crossing,1,FALSE,Road_Floor Markings_Zebra crossing,Road_Floor Markings_Zebra,road,middle_road|animals,Middle of the road!|Animal crackers!
-Road,Traffic Cones,Colour: Blue,3,FALSE,Road_Traffic Cones_Colour: Blue,Road_Traffic Cones_Blue,warning,cone_head|rainbow|builder|middle_road,Cone head!|Over the rainbow!|Bob the builder!|Middle of the road!
-Road,Traffic Cones,Colour: Green,4,FALSE,Road_Traffic Cones_Colour: Green,Road_Traffic Cones_Green,warning,cone_head|rainbow|builder|middle_road,Cone head!|Over the rainbow!|Bob the builder!|Middle of the road!
-Road,Traffic Cones,Colour: Orange,1,FALSE,Road_Traffic Cones_Colour: Orange,Road_Traffic Cones_Orange,warning,cone_head|rainbow|builder|middle_road,Cone head!|Over the rainbow!|Bob the builder!|Middle of the road!
+Road,Traffic Cones,Colour: Blue,3,FALSE,Road_Traffic Cones_Colour: Blue,Road_Traffic Cones_Blue,warning,cone_head|colour|builder|middle_road,Cone head!|Over the rainbow!|Bob the builder!|Middle of the road!
+Road,Traffic Cones,Colour: Green,4,FALSE,Road_Traffic Cones_Colour: Green,Road_Traffic Cones_Green,warning,cone_head|colour|builder|middle_road,Cone head!|Over the rainbow!|Bob the builder!|Middle of the road!
+Road,Traffic Cones,Colour: Orange,1,FALSE,Road_Traffic Cones_Colour: Orange,Road_Traffic Cones_Orange,warning,cone_head|colour|builder|middle_road,Cone head!|Over the rainbow!|Bob the builder!|Middle of the road!
 Road,Traffic Cones,With Light on Top,3,FALSE,Road_Traffic Cones_With Light on Top,Road_Traffic Cones_Light on Top,warning,cone_head|builder|middle_road,Cone head!|Bob the builder!|Middle of the road!
-Road,Traffic Cones,Colour: Yellow,2,FALSE,Road_Traffic Cones_Colour: Yellow,Road_Traffic Cones_Yellow,warning,cone_head|rainbow|builder|middle_road,Cone head!|Over the rainbow!|Bob the builder!|Middle of the road!
+Road,Traffic Cones,Colour: Yellow,2,FALSE,Road_Traffic Cones_Colour: Yellow,Road_Traffic Cones_Yellow,warning,cone_head|colour|builder|middle_road,Cone head!|Over the rainbow!|Bob the builder!|Middle of the road!
 Signs,Distances,Miles: < 01 (Fraction),1,FALSE,Signs_Distances_Miles: < 01 (Fraction),Signs_Distances_Miles: < 01 (Fraction),signpost,distance,Long distance runner!
 Signs,Distances,Miles: 01-05,1,FALSE,Signs_Distances_Miles: 01-05,Signs_Distances_Miles: 01-05,signpost,distance,Long distance runner!
 Signs,Distances,Miles: 06-10,1,FALSE,Signs_Distances_Miles: 06-10,Signs_Distances_Miles: 06-10,signpost,distance,Long distance runner!
@@ -196,7 +196,7 @@ Signs,Highway Code,Speed 30,1,FALSE,Signs_Highway Code_Speed 30,Signs_Highway Co
 Signs,Highway Code,National Speed Limit,1,FALSE,Signs_Highway Code_National Speed Limit,Signs_Highway Code_National Speed Limit,report,speed_freak|highway,Speed freak!|Highway robbery!
 Signs,Highway Code,Bend to Left/Right,1,FALSE,Signs_Highway Code_Bend to Left/Right,Signs_Highway Code_Bend to Left or Right,report,highway,Highway robbery!
 Signs,Highway Code,Blank,2,FALSE,Signs_Highway Code_Blank,Signs_Highway Code_Blank,report,highway,Highway robbery!
-Signs,Highway Code,Diversion Route,1,FALSE,Signs_Highway Code_Diversion Route,Signs_Highway Code_Diversion Route,report,highway|rainbow,Highway robbery!|Over the rainbow!
+Signs,Highway Code,Diversion Route,1,FALSE,Signs_Highway Code_Diversion Route,Signs_Highway Code_Diversion Route,report,highway|colour,Highway robbery!|Over the rainbow!
 Signs,Highway Code,Diverted Traffic,1,FALSE,Signs_Highway Code_Diverted Traffic,Signs_Highway Code_Diverted Traffic,report,highway|builder,Highway robbery!|Bob the builder!
 Signs,Highway Code,Human Figure in it,1,FALSE,Signs_Highway Code_Human Figure in it,Signs_Highway Code_Human Figure,report,highway,Highway robbery!
 Signs,Highway Code,Junction on Bend Ahead,1,FALSE,Signs_Highway Code_Junction on Bend Ahead,Signs_Highway Code_Junction on Bend,report,highway,Highway robbery!
@@ -215,8 +215,8 @@ Signs,Highway Code,No Stopping,1,FALSE,Signs_Highway Code_No Stopping,Signs_High
 Signs,Highway Code,Permit Holders Parking,1,FALSE,Signs_Highway Code_Permit Holders Parking,Signs_Highway Code_Permit Parking,report,highway,Highway robbery!
 Signs,Highway Code,Weight Restriction,2,FALSE,Signs_Highway Code_Weight Restriction,Signs_Highway Code_Weight Restriction,report,highway,Highway robbery!
 Signs,Highway Code,No Through Road,1,FALSE,Signs_Highway Code_No Through Road,Signs_Highway Code_No Through Road,report,highway,Highway robbery!
-Signs,Highway Code,Tourism Sign: No Writing,1,FALSE,Signs_Highway Code_Tourism Sign: No Writing,Signs_Highway Code_Tourism No Writing,report,highway|rainbow,Highway robbery!|Over the rainbow!
-Signs,Highway Code,Tourism Sign: With Writing,1,FALSE,Signs_Highway Code_Tourism Sign: With Writing,Signs_Highway Code_Tourism With Writing,report,highway|rainbow,Highway robbery!|Over the rainbow!
+Signs,Highway Code,Tourism Sign: No Writing,1,FALSE,Signs_Highway Code_Tourism Sign: No Writing,Signs_Highway Code_Tourism No Writing,report,highway|colour,Highway robbery!|Over the rainbow!
+Signs,Highway Code,Tourism Sign: With Writing,1,FALSE,Signs_Highway Code_Tourism Sign: With Writing,Signs_Highway Code_Tourism With Writing,report,highway|colour,Highway robbery!|Over the rainbow!
 Signs,Road Names,Avenue/Court/Crescent,2,FALSE,Signs_Road Names_Avenue/Court/Crescent,Signs_Road Names_Avenue/Court/Crescent,add_road,location,Location location location!
 Signs,Road Names,Close,2,FALSE,Signs_Road Names_Close,Signs_Road Names_Close,add_road,location,Location location location!
 Signs,Road Names,Lane,2,FALSE,Signs_Road Names_Lane,Signs_Road Names_Lane,add_road,location,Location location location!
@@ -275,11 +275,11 @@ Vehicle - Other,Misc,Motorhome,1,FALSE,Vehicle - Other_Misc_Motorhome,Vehicle - 
 Vehicle - Other,Misc,Pram,3,FALSE,Vehicle - Other_Misc_Pram,Vehicle - Other_Misc_Pram,commute,,
 Vehicle - Other,Misc,Taxi,1,FALSE,Vehicle - Other_Misc_Taxi,Vehicle - Other_Misc_Taxi (sign on top),commute,,
 Vehicle - Other,Misc,Wheelchair,4,FALSE,Vehicle - Other_Misc_Wheelchair,Vehicle - Other_Misc_Wheelchair,commute,,
-Vehicle - Other,Motorcycles,Bike: Black,1,FALSE,Vehicle - Other_Motorcycles_Bike: Black,Vehicle - Other_Motorcycles_Bike: Black,two_wheeler,bike|rainbow,On yer bike!|Over the rainbow!
-Vehicle - Other,Motorcycles,Bike: Blue,2,FALSE,Vehicle - Other_Motorcycles_Bike: Blue,Vehicle - Other_Motorcycles_Bike: Blue,two_wheeler,bike|rainbow,On yer bike!|Over the rainbow!
-Vehicle - Other,Motorcycles,Bike: Other,2,FALSE,Vehicle - Other_Motorcycles_Bike: Other,Vehicle - Other_Motorcycles_Bike: Other,two_wheeler,bike|rainbow,On yer bike!|Over the rainbow!
-Vehicle - Other,Motorcycles,Bike: Red,2,FALSE,Vehicle - Other_Motorcycles_Bike: Red,Vehicle - Other_Motorcycles_Bike: Red,two_wheeler,bike|rainbow,On yer bike!|Over the rainbow!
-Vehicle - Other,Motorcycles,Bike: Tandem,3,FALSE,Vehicle - Other_Motorcycles_Bike: Tandem,Vehicle - Other_Motorcycles_Bike: Tandem,two_wheeler,bike|rainbow,On yer bike!|Over the rainbow!
-Vehicle - Other,Motorcycles,Helmet: Black,1,FALSE,Vehicle - Other_Motorcycles_Helmet: Black,Vehicle - Other_Motorcycles_Helmet: Black,sports_motorsports,bike|rainbow,On yer bike!|Over the rainbow!
-Vehicle - Other,Motorcycles,Helmet: Other,1,FALSE,Vehicle - Other_Motorcycles_Helmet: Other,Vehicle - Other_Motorcycles_Helmet: Other,sports_motorsports,bike|rainbow,On yer bike!|Over the rainbow!
-Vehicle - Other,Motorcycles,Helmet: White,1,FALSE,Vehicle - Other_Motorcycles_Helmet: White,Vehicle - Other_Motorcycles_Helmet: White,sports_motorsports,bike|rainbow,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Bike: Black,1,FALSE,Vehicle - Other_Motorcycles_Bike: Black,Vehicle - Other_Motorcycles_Bike: Black,two_wheeler,bike|colour,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Bike: Blue,2,FALSE,Vehicle - Other_Motorcycles_Bike: Blue,Vehicle - Other_Motorcycles_Bike: Blue,two_wheeler,bike|colour,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Bike: Other,2,FALSE,Vehicle - Other_Motorcycles_Bike: Other,Vehicle - Other_Motorcycles_Bike: Other,two_wheeler,bike|colour,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Bike: Red,2,FALSE,Vehicle - Other_Motorcycles_Bike: Red,Vehicle - Other_Motorcycles_Bike: Red,two_wheeler,bike|colour,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Bike: Tandem,3,FALSE,Vehicle - Other_Motorcycles_Bike: Tandem,Vehicle - Other_Motorcycles_Bike: Tandem,two_wheeler,bike|colour,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Helmet: Black,1,FALSE,Vehicle - Other_Motorcycles_Helmet: Black,Vehicle - Other_Motorcycles_Helmet: Black,sports_motorsports,bike|colour,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Helmet: Other,1,FALSE,Vehicle - Other_Motorcycles_Helmet: Other,Vehicle - Other_Motorcycles_Helmet: Other,sports_motorsports,bike|colour,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Helmet: White,1,FALSE,Vehicle - Other_Motorcycles_Helmet: White,Vehicle - Other_Motorcycles_Helmet: White,sports_motorsports,bike|colour,On yer bike!|Over the rainbow!
