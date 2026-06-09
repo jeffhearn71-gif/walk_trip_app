@@ -1,0 +1,285 @@
+﻿Category,Sub-Category,Item Name,Points,Found,Item ID,Shortened Item ID,Icon,Achievements ID,Achievements Display Name
+Animals,Birds - Location,Flock (10+),2,FALSE,Animals_Birds - Location_Flock (10+),Animals_Birds - Location_Flock,raven,flying|animals,Air today gone tomorrow!|Animal crackers!
+Animals,Birds - Location,Flying,1,FALSE,Animals_Birds - Location_Flying,Animals_Birds - Location_Flying,raven,flying|animals,Air today gone tomorrow!|Animal crackers!
+Animals,Birds - Location,Grounded,1,FALSE,Animals_Birds - Location_Grounded,Animals_Birds - Location_Grounded,raven,flying|animals,Air today gone tomorrow!|Animal crackers!
+Animals,Birds - Location,Perched,1,FALSE,Animals_Birds - Location_Perched,Animals_Birds - Location_Perched,raven,flying|animals,Air today gone tomorrow!|Animal crackers!
+Animals,Birds - Species,Bird of prey,3,FALSE,Animals_Birds - Species_Bird of prey,Animals_Birds - Species_Prey,raven,flying|animals,Air today gone tomorrow!|Animal crackers!
+Animals,Birds - Species,Blackbird,1,FALSE,Animals_Birds - Species_Blackbird,Animals_Birds - Species_Blackbird,raven,flying|animals,Air today gone tomorrow!|Animal crackers!
+Animals,Birds - Species,Duck,3,FALSE,Animals_Birds - Species_Duck,Animals_Birds - Species_Duck,raven,flying|animals,Air today gone tomorrow!|Animal crackers!
+Animals,Birds - Species,Magpie,2,FALSE,Animals_Birds - Species_Magpie,Animals_Birds - Species_Magpie,raven,flying|animals,Air today gone tomorrow!|Animal crackers!
+Animals,Birds - Species,Pigeon,1,FALSE,Animals_Birds - Species_Pigeon,Animals_Birds - Species_Pigeon,raven,flying|animals,Air today gone tomorrow!|Animal crackers!
+Animals,Birds - Species,Seagull,3,FALSE,Animals_Birds - Species_Seagull,Animals_Birds - Species_Seagull,raven,flying|animals,Air today gone tomorrow!|Animal crackers!
+Animals,Domestic,Cat,2,FALSE,Animals_Domestic_Cat,Animals_Domestic_Cat,pets,animals,Animal crackers!
+Animals,Domestic,Dog,1,FALSE,Animals_Domestic_Dog,Animals_Domestic_Dog,pets,animals,Animal crackers!
+Buildings,Houses,CCTV Camera,2,FALSE,Buildings_Houses_CCTV Camera,Buildings_Houses_CCTV Camera,home,location|wavelength,Location location location!|Same wavelength!
+Buildings,Houses,Door: Black,1,FALSE,Buildings_Houses_Door: Black,Buildings_Houses_Door Black,home,location|rainbow,Location location location!|Over the rainbow!
+Buildings,Houses,Door: Blue,2,FALSE,Buildings_Houses_Door: Blue,Buildings_Houses_Door Blue,home,location|rainbow,Location location location!|Over the rainbow!
+Buildings,Houses,Door: Green,2,FALSE,Buildings_Houses_Door: Green,Buildings_Houses_Door Green,home,location|rainbow,Location location location!|Over the rainbow!
+Buildings,Houses,Door: Other,1,FALSE,Buildings_Houses_Door: Other,Buildings_Houses_Door Other,home,location|rainbow,Location location location!|Over the rainbow!
+Buildings,Houses,Door: Red,2,FALSE,Buildings_Houses_Door: Red,Buildings_Houses_Door Red,home,location|rainbow,Location location location!|Over the rainbow!
+Buildings,Houses,Door: White,1,FALSE,Buildings_Houses_Door: White,Buildings_Houses_Door White,home,location|rainbow,Location location location!|Over the rainbow!
+Buildings,Houses,Door or Window Open,2,FALSE,Buildings_Houses_Door or Window Open,Buildings_Houses_Door Open,home,location,Location location location!
+Buildings,Houses,Hanging basket,2,FALSE,Buildings_Houses_Hanging basket,Buildings_Houses_Basket,home,location,Location location location!
+Buildings,Houses,Painted,1,FALSE,Buildings_Houses_Painted,Buildings_Houses_Painted,home,location|rainbow,Location location location!|Over the rainbow!
+Buildings,Houses,Satellite Dish,1,FALSE,Buildings_Houses_Satellite Dish,Buildings_Houses_Satellite Dish,home,location|wavelength,Location location location!|Same wavelength!
+Buildings,Houses,Skylight,1,FALSE,Buildings_Houses_Skylight,Buildings_Houses_Skylight,home,location,Location location location!
+Buildings,Houses,Solar Panels,2,FALSE,Buildings_Houses_Solar Panels,Buildings_Houses_Solar Panels,home,location|wavelength,Location location location!|Same wavelength!
+Buildings,Places of Interest,Car Salesroom,2,FALSE,Buildings_Places of Interest_Car Salesroom,Buildings_Places of Interest_Salesroom,location_city,interest,Been there done that!
+Buildings,Places of Interest,Carwash,2,FALSE,Buildings_Places of Interest_Carwash,Buildings_Places of Interest_Carwash,location_city,interest,Been there done that!
+Buildings,Places of Interest,Church,3,FALSE,Buildings_Places of Interest_Church,Buildings_Places of Interest_Church,location_city,interest,Been there done that!
+Buildings,Places of Interest,Hotel,3,FALSE,Buildings_Places of Interest_Hotel,Buildings_Places of Interest_Hotel,location_city,interest,Been there done that!
+Buildings,Shops,Hairdresser,2,FALSE,Buildings_Shops_Hairdresser,Buildings_Shops_Hairdresser,storefront,shop_drop,Shop 'til you drop!
+Buildings,Shops,Books,2,FALSE,Buildings_Shops_Books,Buildings_Shops_Books,storefront,shop_drop,Shop 'til you drop!
+Buildings,Shops,Coffee,1,FALSE,Buildings_Shops_Coffee,Buildings_Shops_Coffee,storefront,shop_drop,Shop 'til you drop!
+Buildings,Shops,Electronics,2,FALSE,Buildings_Shops_Electronics,Buildings_Shops_Electronics,storefront,shop_drop|wavelength,Shop 'til you drop!|Same wavelength!
+Buildings,Shops,Fashion,2,FALSE,Buildings_Shops_Fashion,Buildings_Shops_Fashion,storefront,shop_drop,Shop 'til you drop!
+Buildings,Shops,Florist,2,FALSE,Buildings_Shops_Florist,Buildings_Shops_Florist,storefront,shop_drop,Shop 'til you drop!
+Buildings,Shops,Fast food: burger,2,FALSE,Buildings_Shops_Fast food: burger,Buildings_Shops_Burger,storefront,shop_drop|eating,Shop 'til you drop!|Eatings cheatin'!
+Buildings,Shops,Fast food: chicken,2,FALSE,Buildings_Shops_Fast food: chicken,Buildings_Shops_Chicken,storefront,shop_drop|eating,Shop 'til you drop!|Eatings cheatin'!
+Buildings,Shops,Fast food: chinese,2,FALSE,Buildings_Shops_Fast food: chinese,Buildings_Shops_Chinese,storefront,shop_drop|eating,Shop 'til you drop!|Eatings cheatin'!
+Buildings,Shops,Fast food: curry,2,FALSE,Buildings_Shops_Fast food : curry,Buildings_Shops_Curry,storefront,shop_drop|eating,Shop 'til you drop!|Eatings cheatin'!
+Buildings,Shops,Fast food: pizza,2,FALSE,Buildings_Shops_Fast food: pizza,Buildings_Shops_Pizza,storefront,shop_drop|eating,Shop 'til you drop!|Eatings cheatin'!
+Buildings,Shops,Jewellery,3,FALSE,Buildings_Shops_Jewellery,Buildings_Shops_Jewellery,storefront,shop_drop,Shop 'til you drop!
+Buildings,Shops,Newsagents,1,FALSE,Buildings_Shops_Newsagents,Buildings_Shops_Newsagents,storefront,shop_drop,Shop 'til you drop!
+Buildings,Shops,Pet Shop,3,FALSE,Buildings_Shops_Pet Shop,Buildings_Shops_Pet Shop,storefront,shop_drop|animals,Shop 'til you drop!|Animal crackers!
+Buildings,Shops,Petrol station,1,FALSE,Buildings_Shops_Petrol station,Buildings_Shops_Petrol,storefront,shop_drop,Shop 'til you drop!
+Buildings,Shops,Pub,2,FALSE,Buildings_Shops_Pub,Buildings_Shops_Pub,storefront,shop_drop,Shop 'til you drop!
+Buildings,Shops,Pharmacy,3,FALSE,Buildings_Shops_Pharmacy,Buildings_Shops_Pharmacy,storefront,shop_drop,Shop 'til you drop!
+Buildings,Shops,Restaurant,1,FALSE,Buildings_Shops_Restaurant,Buildings_Shops_Restaurant,storefront,eating,Eatings cheatin'!
+Car,Colours,Colour: Brown,1,FALSE,Car_Colours_Colour: Brown,Car_Colours_Brown,palette,rainbow,Over the rainbow!
+Car,Colours,Colour: Green,1,FALSE,Car_Colours_Colour: Green,Car_Colours_Green,palette,rainbow,Over the rainbow!
+Car,Colours,Colour: Orange,2,FALSE,Car_Colours_Colour: Orange,Car_Colours_Orange,palette,rainbow,Over the rainbow!
+Car,Colours,Colour: Pink,4,FALSE,Car_Colours_Colour: Pink,Car_Colours_Pink,palette,rainbow,Over the rainbow!
+Car,Colours,Colour: Purple,3,FALSE,Car_Colours_Colour: Purple,Car_Colours_Purple,palette,rainbow,Over the rainbow!
+Car,Colours,Colour: Two-toned,1,FALSE,Car_Colours_Colour: Two-toned,Car_Colours_Two-toned,palette,rainbow,Over the rainbow!
+Car,Colours,Colour: Yellow,1,FALSE,Car_Colours_Colour: Yellow,Car_Colours_Yellow,palette,rainbow,Over the rainbow!
+Car,External Items,Bike on a boot,1,FALSE,Car_External Items_Bike on a boot,Car_External Items_Bike-boot,directions_car,bike,On yer bike!
+Car,External Items,Bike on a roof rack,1,FALSE,Car_External Items_Bike on a roof rack,Car_External Items_Bike-roof,directions_car,bike,On yer bike!
+Car,External Items,Car with advertising on it,1,FALSE,Car_External Items_Car with advertising on it,Car_External Items_Advertising,directions_car,,
+Car,External Items,Convertible,1,FALSE,Car_External Items_Convertible,Car_External Items_Convertible,directions_car,,
+Car,External Items,Damaged,1,FALSE,Car_External Items_Damaged,Car_External Items_Damaged,directions_car,park_mate,You can't park there mate!
+Car,External Items,Double Exhaust,1,FALSE,Car_External Items_Double Exhaust,Car_External Items_Double Exhaust,directions_car,,
+Car,External Items,Hazard lights on,1,FALSE,Car_External Items_Hazard lights on,Car_External Items_Hazard,directions_car,park_mate,You can't park there mate!
+Car,External Items,Poppy,3,FALSE,Car_External Items_Poppy,Car_External Items_Poppy,directions_car,poppy,Lest we forget!
+Car,External Items,Roof Storage Pod,1,FALSE,Car_External Items_Roof Storage Pod,Car_External Items_Roof Storage,directions_car,,
+Car,External Items,Spoiler,1,FALSE,Car_External Items_Spoiler,Car_External Items_Spoiler,directions_car,,
+Car,Models,Audi,1,FALSE,Car_Models_Audi,Car_Models_Audi,car_tag,top_gear,Top Gear!
+Car,Models,Bentley,3,FALSE,Car_Models_Bentley,Car_Models_Bentley,car_tag,top_gear,Top Gear!
+Car,Models,BMW,1,FALSE,Car_Models_BMW,Car_Models_BMW,car_tag,top_gear,Top Gear!
+Car,Models,Citroen,1,FALSE,Car_Models_Citroen,Car_Models_Citroen,car_tag,top_gear,Top Gear!
+Car,Models,Cupra,2,FALSE,Car_Models_Cupra,Car_Models_Cupra,car_tag,top_gear,Top Gear!
+Car,Models,Dacia,2,FALSE,Car_Models_Dacia,Car_Models_Dacia,car_tag,top_gear,Top Gear!
+Car,Models,Fiat,1,FALSE,Car_Models_Fiat,Car_Models_Fiat,car_tag,top_gear,Top Gear!
+Car,Models,Ford,1,FALSE,Car_Models_Ford,Car_Models_Ford,car_tag,top_gear,Top Gear!
+Car,Models,Honda,1,FALSE,Car_Models_Honda,Car_Models_Honda,car_tag,top_gear,Top Gear!
+Car,Models,Hyundai,1,FALSE,Car_Models_Hyundai,Car_Models_Hyundai,car_tag,top_gear,Top Gear!
+Car,Models,Jaguar,2,FALSE,Car_Models_Jaguar,Car_Models_Jaguar,car_tag,top_gear|animals,Top Gear!|Animal crackers!
+Car,Models,Jeep,3,FALSE,Car_Models_Jeep,Car_Models_Jeep,car_tag,top_gear,Top Gear!
+Car,Models,KIA,1,FALSE,Car_Models_KIA,Car_Models_KIA,car_tag,top_gear,Top Gear!
+Car,Models,Land Rover,1,FALSE,Car_Models_Land Rover,Car_Models_Land Rover,car_tag,top_gear,Top Gear!
+Car,Models,Lexus,2,FALSE,Car_Models_Lexus,Car_Models_Lexus,car_tag,top_gear,Top Gear!
+Car,Models,Mazda,1,FALSE,Car_Models_Mazda,Car_Models_Mazda,car_tag,top_gear,Top Gear!
+Car,Models,Mercedes-Benz,1,FALSE,Car_Models_Mercedes-Benz,Car_Models_Mercedes-Benz,car_tag,top_gear,Top Gear!
+Car,Models,MG,2,FALSE,Car_Models_MG,Car_Models_MG,car_tag,top_gear,Top Gear!
+Car,Models,Mini (Regular),1,FALSE,Car_Models_Mini (Regular),Car_Models_Mini (Regular),car_tag,top_gear,Top Gear!
+Car,Models,Mini (Union Jack),2,FALSE,Car_Models_Mini (Union Jack),Car_Models_Mini (Union Jack),car_tag,top_gear,Top Gear!
+Car,Models,Mitsubishi,3,FALSE,Car_Models_Mitsubishi,Car_Models_Mitsubishi,car_tag,top_gear,Top Gear!
+Car,Models,Nissan,1,FALSE,Car_Models_Nissan,Car_Models_Nissan,car_tag,top_gear,Top Gear!
+Car,Models,Peugeot,1,FALSE,Car_Models_Peugeot,Car_Models_Peugeot,car_tag,top_gear,Top Gear!
+Car,Models,Porsche,2,FALSE,Car_Models_Porsche,Car_Models_Porsche,car_tag,top_gear,Top Gear!
+Car,Models,Range Rover,1,FALSE,Car_Models_Range Rover,Car_Models_Range Rover,car_tag,top_gear,Top Gear!
+Car,Models,Renault,1,FALSE,Car_Models_Renault,Car_Models_Renault,car_tag,top_gear,Top Gear!
+Car,Models,Seat,1,FALSE,Car_Models_Seat,Car_Models_Seat,car_tag,top_gear,Top Gear!
+Car,Models,Skoda,1,FALSE,Car_Models_Skoda,Car_Models_Skoda,car_tag,top_gear,Top Gear!
+Car,Models,Suzuki,2,FALSE,Car_Models_Suzuki,Car_Models_Suzuki,car_tag,top_gear,Top Gear!
+Car,Models,Tesla,1,FALSE,Car_Models_Tesla,Car_Models_Tesla,car_tag,top_gear,Top Gear!
+Car,Models,Toyota,1,FALSE,Car_Models_Toyota,Car_Models_Toyota,car_tag,top_gear,Top Gear!
+Car,Models,Vauxhall,1,FALSE,Car_Models_Vauxhall,Car_Models_Vauxhall,car_tag,top_gear,Top Gear!
+Car,Models,Volkswagen,1,FALSE,Car_Models_Volkswagen,Car_Models_Volkswagen,car_tag,top_gear,Top Gear!
+Car,Models,Volvo,1,FALSE,Car_Models_Volvo,Car_Models_Volvo,car_tag,top_gear,Top Gear!
+Car,Number Plates,European,2,FALSE,Car_Number Plates_European,Car_Number Plates_European,confirmation_number,plate,Put it on a plate!
+Car,Number Plates,Personalised,2,FALSE,Car_Number Plates_Personalised,Car_Number Plates_Personalised,confirmation_number,plate,Put it on a plate!
+Car,Stickers,Baby On Board,2,FALSE,Car_Stickers_Baby On Board,Car_Stickers_Baby,branding_watermark,learning,Learning the hard way!
+Car,Stickers,GB,3,FALSE,Car_Stickers_GB,Car_Stickers_GB,branding_watermark,learning|rule,Learning the hard way!|Rule Britannia!
+Car,Stickers,Learner,2,FALSE,Car_Stickers_Learner,Car_Stickers_Learner,branding_watermark,learning,Learning the hard way!
+Car,Stickers,Passed,3,FALSE,Car_Stickers_Passed,Car_Stickers_Passed,branding_watermark,learning,Learning the hard way!
+Car,Stickers,UK,1,FALSE,Car_Stickers_UK,Car_Stickers_UK,branding_watermark,learning,Learning the hard way!
+Misc - Items,Bins,Biffa Bin,2,FALSE,Misc - Items_Bins_Biffa Bin,Misc - Items_Bins_Biffa,recycling,bin,It's bin a long time coming!
+Misc - Items,Bins,Dog poo bin,2,FALSE,Misc - Items_Bins_Dog poo bin,Misc - Items_Bins_Dog poo,recycling,bin,It's bin a long time coming!
+Misc - Items,Bins,Litter bin,2,FALSE,Misc - Items_Bins_Litter bin,Misc - Items_Bins_Litter,recycling,bin,It's bin a long time coming!
+Misc - Items,Bins,Recycling Box,1,FALSE,Misc - Items_Bins_Recycling Box,Misc - Items_Bins_Recycling,recycling,bin,It's bin a long time coming!
+Misc - Items,Bins,Colour: Grey,1,FALSE,Misc - Items_Bins_Colour: Grey,Misc - Items_Bins_Grey,recycling,bin|rainbow,It's bin a long time coming!|Over the rainbow!
+Misc - Items,Bins,Colour: Brown,2,FALSE,Misc - Items_Bins_Colour: Brown,Misc - Items_Bins_Brown,recycling,bin|rainbow,It's bin a long time coming!|Over the rainbow!
+Misc - Items,Bins,Colour: Green,1,FALSE,Misc - Items_Bins_Colour: Green,Misc - Items_Bins_Green,recycling,bin|rainbow,It's bin a long time coming!|Over the rainbow!
+Misc - Items,Construction,Skip,1,FALSE,Misc - Items_Construction_Skip,Misc - Items_Construction_Skip,construction,bin|builder,It's bin a long time coming!|Bob the builder!
+Misc - Items,Construction,Portaloo,3,FALSE,Misc - Items_Construction_Portaloo,Misc - Items_Construction_Portaloo,construction,builder,Bob the builder!
+Misc - Items,Construction,Crane,3,FALSE,Misc - Items_Construction_Crane,Misc - Items_Construction_Crane,construction,builder,Bob the builder!
+Misc - Items,Construction,Scaffolding,1,FALSE,Misc - Items_Construction_Scaffolding,Misc - Items_Construction_Scaffolding,construction,builder,Bob the builder!
+Misc - Items,Flags,Flag: Not Country Related,2,FALSE,Misc - Items_Flags_Flag: Not Country Related,Misc - Items_Flags_Flag - Not Country Related,flag,flying,Air today gone tomorrow!
+Misc - Items,Flags,Flag: Other Country,4,FALSE,Misc - Items_Flags_Flag: Other Country,Misc - Items_Flags_Flag - Other Country,flag,flying,Air today gone tomorrow!
+Misc - Items,Flags,Flag: St. Georges Cross,2,FALSE,Misc - Items_Flags_Flag: St. Georges Cross,Misc - Items_Flags_Flag - St. Georges Cross,flag,flying|rule,Air today gone tomorrow!|Rule Britannia!
+Misc - Items,Flags,Flag: Union Jack,2,FALSE,Misc - Items_Flags_Flag: Union Jack,Misc - Items_Flags_Flag - Union Jack,flag,flying|rule,Air today gone tomorrow!|Rule Britannia!
+Misc - Items,Objects,Bunting/Fairy Lights,2,FALSE,Misc - Items_Objects_Bunting/Fairy Lights,Misc - Items_Objects_Bunting_Fairy Lights,category,object,Object of desire!
+Misc - Items,Objects,Bus Stop (Pole only),1,FALSE,Misc - Items_Objects_Bus Stop (Pole only),Misc - Items_Objects_Bus Stop (Pole only),category,bus_coach|object,Bus-ted!|Object of desire!
+Misc - Items,Objects,Bus Stop with Shelter,2,FALSE,Misc - Items_Objects_Bus Stop with Shelter,Misc - Items_Objects_Bus Stop with Shelter,category,bus_coach|object,Bus-ted!|Object of desire!
+Misc - Items,Objects,Graffiti,1,FALSE,Misc - Items_Objects_Graffiti,Misc - Items_Objects_Graffiti,category,object,Object of desire!
+Misc - Items,Objects,Ladder,1,FALSE,Misc - Items_Objects_Ladder,Misc - Items_Objects_Ladder,category,object,Object of desire!
+Misc - Items,Objects,Post box,1,FALSE,Misc - Items_Objects_Post box,Misc - Items_Objects_Post box,category,object,Object of desire!
+Misc - Items,Objects,Salt Container,2,FALSE,Misc - Items_Objects_Salt Container,Misc - Items_Objects_Salt Container,category,bin|object,It's bin a long time coming!|Object of desire!
+Misc - Items,Objects,Speed camera,1,FALSE,Misc - Items_Objects_Speed camera,Misc - Items_Objects_Speed camera,category,speed_freak|object,Speed freak!|Object of desire!
+Misc - Items,Objects,Telephone box,2,FALSE,Misc - Items_Objects_Telephone box,Misc - Items_Objects_Telephone box,category,object,Object of desire!
+Misc - Items,Objects,Washing Hung Up,2,FALSE,Misc - Items_Objects_Washing Hung Up,Misc - Items_Objects_Washing,category,location|object,Location location location!|Object of desire!
+Misc - Items,Objects,Wooden Pallets,2,FALSE,Misc - Items_Objects_Wooden Pallets,Misc - Items_Objects_Wooden Pallets,category,object,Object of desire!
+People,Activity,Carrying a bag,2,FALSE,People_Activity_Carrying a bag,People_Activity_Carrying bag,arrow_circle_up,baggage|do_it,Emotional baggage!|Do it!
+People,Activity,Drinking Tea or Coffee,1,FALSE,People_Activity_Drinking Tea or Coffee,People_Activity_Coffee,arrow_circle_up,eating|do_it,Eatings cheatin'!|Do it!
+People,Activity,Eating,1,FALSE,People_Activity_Eating,People_Activity_Eating,arrow_circle_up,eating|do_it,Eatings cheatin'!|Do it!
+People,Activity,Holding hands,3,FALSE,People_Activity_Holding hands,People_Activity_Holding hands,arrow_circle_up,,
+People,Activity,Jogging,2,FALSE,People_Activity_Jogging,People_Activity_Jogging,arrow_circle_up,,
+People,Activity,Using phone,1,FALSE,People_Activity_Using phone,People_Activity_Phone,arrow_circle_up,wavelength,Same wavelength!
+People,Activity,Vaping/Smoking,2,FALSE,People_Activity_Vaping/Smoking,People_Activity_Vaping,arrow_circle_up,,
+People,Activity,Wearing hat,2,FALSE,People_Activity_Wearing hat,People_Activity_Hat,arrow_circle_up,,
+People,Activity,Wearing sunglasses,2,FALSE,People_Activity_Wearing sunglasses,People_Activity_Sunglasses,arrow_circle_up,,
+People,Clothes,Colour: Green,3,FALSE,People_Clothes_Colour: Green,People_Clothes_Green,apparel,top|colour,Top of the tops!|Over the rainbow!
+People,Clothes,Colour: Orange,3,FALSE,People_Clothes_Colour: Orange,People_Clothes_Orange,apparel,top|colour,Top of the tops!|Over the rainbow!
+People,Clothes,Colour: Purple,3,FALSE,People_Clothes_Colour: Purple,People_Clothes_Purple,apparel,top|colour,Top of the tops!|Over the rainbow!
+People,Clothes,Colour: Red,2,FALSE,People_Clothes_Colour: Red,People_Clothes_Red,apparel,top|colour,Top of the tops!|Over the rainbow!
+People,Clothes,Colour: Yellow,3,FALSE,People_Clothes_Colour: Yellow,People_Clothes_Yellow,apparel,top|colour,Top of the tops!|Over the rainbow!
+People,Clothes,Sport,2,FALSE,People_Clothes_Sport,People_Clothes_Sport,apparel,top|sport,Top of the tops!|Good sport!
+People,Hair,Bald with Beard,3,FALSE,People_Hair_Bald with Beard,People_Hair_Bald_Beard,content_cut,hair,Hair today gone tomorrow!
+People,Hair,Bald with Glasses,2,FALSE,People_Hair_Bald with Glasses,People_Hair_Bald_Glasses,content_cut,hair,Hair today gone tomorrow!
+People,Hair,Bald Woman (Skinhead),3,FALSE,People_Hair_Bald Woman (Skinhead),People_Hair_Skinhead,content_cut,hair,Hair today gone tomorrow!
+People,Hair,Colour: Blue or Green,4,FALSE,People_Hair_Colour: Blue,People_Hair_Blue,content_cut,hair|colour,Hair today gone tomorrow!|Over the rainbow!
+People,Hair,Colour: Ginger,2,FALSE,People_Hair_Colour: Ginger,People_Hair_Ginger,content_cut,hair|colour,Hair today gone tomorrow!|Over the rainbow!
+People,Hair,Colour: Other,3,FALSE,People_Hair_Colour: Other,People_Hair_Other,content_cut,hair|colour,Hair today gone tomorrow!|Over the rainbow!
+People,Hair,Colour: Pink or Red,4,FALSE,People_Hair_Colour: Pink or Red,People_Hair_Pink,content_cut,hair|colour,Hair today gone tomorrow!|Over the rainbow!
+Parks & Nature,Flowers,Colour: Blue,2,FALSE,Parks & Nature_Flowers_Colour: Blue,Parks & Nature_Flowers_Colour: Blue,deceased,naturel|colour,Au naturel!|Over the rainbow!
+Parks & Nature,Flowers,Colour: Purple,2,FALSE,Parks & Nature_Flowers_Colour: Purple,Parks & Nature_Flowers_Colour: Purple,deceased,naturel|colour,Au naturel!|Over the rainbow!
+Parks & Nature,Flowers,Colour: Red,2,FALSE,Parks & Nature_Flowers_Colour: Red,Parks & Nature_Flowers_Colour: Red,deceased,naturel|colour,Au naturel!|Over the rainbow!
+Parks & Nature,Flowers,Colour: Yellow,1,FALSE,Parks & Nature_Flowers_Colour: Yellow,Parks & Nature_Flowers_Colour: Yellow,deceased,naturel|colour,Au naturel!|Over the rainbow!
+Parks & Nature,Leaves,Colour: Brown,1,FALSE,Parks & Nature_Leaves_Colour: Brown,Parks & Nature_Leaves_Colour: Brown,nest_eco_leaf,naturel|colour,Au naturel!|Over the rainbow!
+Parks & Nature,Leaves,Colour: Two-tone,2,FALSE,Parks & Nature_Leaves_Colour: Two-tone,Parks & Nature_Leaves_Colour: Two-tone,nest_eco_leaf,naturel|colour,Au naturel!|Over the rainbow!
+Parks & Nature,Leaves,Colour: Red,1,FALSE,Parks & Nature_Leaves_Colour: Red,Parks & Nature_Leaves_Colour: Red,nest_eco_leaf,naturel|colour,Au naturel!|Over the rainbow!
+Parks & Nature,Leaves,Colour: Yellow,1,FALSE,Parks & Nature_Leaves_Colour: Yellow,Parks & Nature_Leaves_Colour: Yellow,nest_eco_leaf,naturel|colour,Au naturel!|Over the rainbow!
+Parks & Nature,The Outdoors,Expanse of water,2,FALSE,Parks & Nature_The Outdoors_Expanse of water,Parks & Nature_The Outdoors_Expanse,park,naturel,Au naturel!
+Parks & Nature,The Outdoors,Mistletoe,2,FALSE,Parks & Nature_The Outdoors_Mistletoe,Parks & Nature_The Outdoors_Mistletoe,park,naturel,Au naturel!
+Parks & Nature,The Outdoors,Plastic bag in tree,2,FALSE,Parks & Nature_The Outdoors_Plastic bag in tree,Parks & Nature_The Outdoors_Plastic bag,park,naturel,Au naturel!
+Parks & Nature,Trees,Beech,2,FALSE,Parks & Nature_Trees_Beech,Parks & Nature_Trees_Beech,forest,naturel,Au naturel!
+Parks & Nature,Trees,Fir,1,FALSE,Parks & Nature_Trees_Fir,Parks & Nature_Trees_Fir,forest,naturel,Au naturel!
+Parks & Nature,Trees,Horse-chestnut,2,FALSE,Parks & Nature_Trees_Horse-chestnut,Parks & Nature_Trees_Horse-chestnut,forest,naturel,Au naturel!
+Parks & Nature,Trees,Oak,2,FALSE,Parks & Nature_Trees_Oak,Parks & Nature_Trees_Oak,forest,naturel,Au naturel!
+Parks & Nature,Playground,Ball,3,FALSE,Parks & Nature_Playground_Ball,Parks & Nature_Playground_Ball,child_care,naturel,Au naturel!
+Parks & Nature,Playground,Equipment,2,FALSE,Parks & Nature_Playground_Equipment,Parks & Nature_Playground_Equipment,child_care,naturel,Au naturel!
+Parks & Nature,Playground,Football Posts,2,FALSE,Parks & Nature_Playground_Football Posts,Parks & Nature_Playground_Football Posts,child_care,naturel,Au naturel!
+Road,Floor Markings,Bus Lane/Stop,1,FALSE,Road_Floor Markings_Bus Lane/Stop,Road_Floor Markings_Bus Lane/Stop,road,bus_coach|middle_road,Bus-ted!|Middle of the road!
+Road,Floor Markings,Double Yellow Lines,1,FALSE,Road_Floor Markings_Double Yellow Lines,Road_Floor Markings_Double Yellow Lines,road,rainbow|middle_road,Over the rainbow!|Middle of the road!
+Road,Floor Markings,Keep Clear/No Entry,2,FALSE,Road_Floor Markings_Keep Clear/No Entry,Road_Floor Markings_Keep Clear,road,middle_road,Middle of the road!
+Road,Floor Markings,Speed Bump,2,FALSE,Road_Floor Markings_Speed Bump,Road_Floor Markings_Speed Bump,road,speed_freak|middle_road,Speed freak!|Middle of the road!
+Road,Floor Markings,Slow,1,FALSE,Road_Floor Markings_Slow,Road_Floor Markings_Slow,road,middle_road,Middle of the road!
+Road,Floor Markings,Speed Limit (Any),2,FALSE,Road_Floor Markings_Speed Limit (Any),Road_Floor Markings_Speed Limit (Any),road,speed_freak|middle_road,Speed freak!|Middle of the road!
+Road,Floor Markings,Zebra crossing,1,FALSE,Road_Floor Markings_Zebra crossing,Road_Floor Markings_Zebra,road,middle_road|animals,Middle of the road!|Animal crackers!
+Road,Traffic Cones,Colour: Blue,3,FALSE,Road_Traffic Cones_Colour: Blue,Road_Traffic Cones_Blue,warning,cone_head|rainbow|builder|middle_road,Cone head!|Over the rainbow!|Bob the builder!|Middle of the road!
+Road,Traffic Cones,Colour: Green,4,FALSE,Road_Traffic Cones_Colour: Green,Road_Traffic Cones_Green,warning,cone_head|rainbow|builder|middle_road,Cone head!|Over the rainbow!|Bob the builder!|Middle of the road!
+Road,Traffic Cones,Colour: Orange,1,FALSE,Road_Traffic Cones_Colour: Orange,Road_Traffic Cones_Orange,warning,cone_head|rainbow|builder|middle_road,Cone head!|Over the rainbow!|Bob the builder!|Middle of the road!
+Road,Traffic Cones,With Light on Top,3,FALSE,Road_Traffic Cones_With Light on Top,Road_Traffic Cones_Light on Top,warning,cone_head|builder|middle_road,Cone head!|Bob the builder!|Middle of the road!
+Road,Traffic Cones,Colour: Yellow,2,FALSE,Road_Traffic Cones_Colour: Yellow,Road_Traffic Cones_Yellow,warning,cone_head|rainbow|builder|middle_road,Cone head!|Over the rainbow!|Bob the builder!|Middle of the road!
+Signs,Distances,Miles: < 01 (Fraction),1,FALSE,Signs_Distances_Miles: < 01 (Fraction),Signs_Distances_Miles: < 01 (Fraction),signpost,distance,Long distance runner!
+Signs,Distances,Miles: 01-05,1,FALSE,Signs_Distances_Miles: 01-05,Signs_Distances_Miles: 01-05,signpost,distance,Long distance runner!
+Signs,Distances,Miles: 06-10,1,FALSE,Signs_Distances_Miles: 06-10,Signs_Distances_Miles: 06-10,signpost,distance,Long distance runner!
+Signs,Distances,Miles: 10-19,1,FALSE,Signs_Distances_Miles: 10-19,Signs_Distances_Miles: 10-19,signpost,distance,Long distance runner!
+Signs,Estate Agent,For Sale,1,FALSE,Signs_Estate Agent_For Sale,Signs_Estate Agent_For Sale,house,location,Location location location!
+Signs,Estate Agent,Sold,1,FALSE,Signs_Estate Agent_Sold,Signs_Estate Agent_Sold,house,location,Location location location!
+Signs,Estate Agent,To Let/Let,1,FALSE,Signs_Estate Agent_To Let/Let,Signs_Estate Agent_To Let,house,location,Location location location!
+Signs,Highway Code,Speed 05/15,3,FALSE,Signs_Highway Code_Speed 05/15,Signs_Highway Code_Speed 5 or 15,report,speed_freak|highway,Speed freak!|Highway robbery!
+Signs,Highway Code,Speed 10,2,FALSE,Signs_Highway Code_Speed 10,Signs_Highway Code_Speed 10,report,speed_freak|highway,Speed freak!|Highway robbery!
+Signs,Highway Code,Speed 20,3,FALSE,Signs_Highway Code_Speed 20,Signs_Highway Code_Speed 20,report,speed_freak|highway,Speed freak!|Highway robbery!
+Signs,Highway Code,Speed 30,1,FALSE,Signs_Highway Code_Speed 30,Signs_Highway Code_Speed 30,report,speed_freak|highway,Speed freak!|Highway robbery!
+Signs,Highway Code,National Speed Limit,1,FALSE,Signs_Highway Code_National Speed Limit,Signs_Highway Code_National Speed Limit,report,speed_freak|highway,Speed freak!|Highway robbery!
+Signs,Highway Code,Bend to Left/Right,1,FALSE,Signs_Highway Code_Bend to Left/Right,Signs_Highway Code_Bend to Left or Right,report,highway,Highway robbery!
+Signs,Highway Code,Blank,2,FALSE,Signs_Highway Code_Blank,Signs_Highway Code_Blank,report,highway,Highway robbery!
+Signs,Highway Code,Diversion Route,1,FALSE,Signs_Highway Code_Diversion Route,Signs_Highway Code_Diversion Route,report,highway|rainbow,Highway robbery!|Over the rainbow!
+Signs,Highway Code,Diverted Traffic,1,FALSE,Signs_Highway Code_Diverted Traffic,Signs_Highway Code_Diverted Traffic,report,highway|builder,Highway robbery!|Bob the builder!
+Signs,Highway Code,Human Figure in it,1,FALSE,Signs_Highway Code_Human Figure in it,Signs_Highway Code_Human Figure,report,highway,Highway robbery!
+Signs,Highway Code,Junction on Bend Ahead,1,FALSE,Signs_Highway Code_Junction on Bend Ahead,Signs_Highway Code_Junction on Bend,report,highway,Highway robbery!
+Signs,Highway Code,Men At Work,1,FALSE,Signs_Highway Code_Men At Work,Signs_Highway Code_Men At Work,report,highway|builder,Highway robbery!|Bob the builder!
+Signs,Highway Code,Roundabout,1,FALSE,Signs_Highway Code_Roundabout,Signs_Highway Code_Roundabout,report,highway,Highway robbery!
+Signs,Highway Code,Sandbag weight,1,FALSE,Signs_Highway Code_Sandbag weight,Signs_Highway Code_Sandbag,report,highway|cone_head,Highway robbery!|Cone head!
+Signs,Highway Code,School,1,FALSE,Signs_Highway Code_School,Signs_Highway Code_School,report,highway,Highway robbery!
+Signs,Highway Code,Slippery Road,1,FALSE,Signs_Highway Code_Slippery Road,Signs_Highway Code_Slippery Road,report,highway,Highway robbery!
+Signs,Highway Code,Traffic Merging,1,FALSE,Signs_Highway Code_Traffic Merging,Signs_Highway Code_Traffic Merging,report,highway,Highway robbery!
+Signs,Highway Code,Uneven Road,1,FALSE,Signs_Highway Code_Uneven Road,Signs_Highway Code_Uneven,report,highway,Highway robbery!
+Signs,Highway Code,Give Way,1,FALSE,Signs_Highway Code_Give Way,Signs_Highway Code_Give Way,report,highway,Highway robbery!
+Signs,Highway Code,Height/Width Restriction,2,FALSE,Signs_Highway Code_Height/Width Restriction,Signs_Highway Code_Height/Width Restriction,report,highway,Highway robbery!
+Signs,Highway Code,No Entry,1,FALSE,Signs_Highway Code_No Entry,Signs_Highway Code_No Entry,report,highway,Highway robbery!
+Signs,Highway Code,No Left/Right Turn,1,FALSE,Signs_Highway Code_No Left/Right Turn,Signs_Highway Code_No Left/Right Turn,report,highway,Highway robbery!
+Signs,Highway Code,No Stopping,1,FALSE,Signs_Highway Code_No Stopping,Signs_Highway Code_No Stopping,report,highway,Highway robbery!
+Signs,Highway Code,Permit Holders Parking,1,FALSE,Signs_Highway Code_Permit Holders Parking,Signs_Highway Code_Permit Parking,report,highway,Highway robbery!
+Signs,Highway Code,Weight Restriction,2,FALSE,Signs_Highway Code_Weight Restriction,Signs_Highway Code_Weight Restriction,report,highway,Highway robbery!
+Signs,Highway Code,No Through Road,1,FALSE,Signs_Highway Code_No Through Road,Signs_Highway Code_No Through Road,report,highway,Highway robbery!
+Signs,Highway Code,Tourism Sign: No Writing,1,FALSE,Signs_Highway Code_Tourism Sign: No Writing,Signs_Highway Code_Tourism No Writing,report,highway|rainbow,Highway robbery!|Over the rainbow!
+Signs,Highway Code,Tourism Sign: With Writing,1,FALSE,Signs_Highway Code_Tourism Sign: With Writing,Signs_Highway Code_Tourism With Writing,report,highway|rainbow,Highway robbery!|Over the rainbow!
+Signs,Road Names,Avenue/Court/Crescent,2,FALSE,Signs_Road Names_Avenue/Court/Crescent,Signs_Road Names_Avenue/Court/Crescent,add_road,location,Location location location!
+Signs,Road Names,Close,2,FALSE,Signs_Road Names_Close,Signs_Road Names_Close,add_road,location,Location location location!
+Signs,Road Names,Lane,2,FALSE,Signs_Road Names_Lane,Signs_Road Names_Lane,add_road,location,Location location location!
+Signs,Road Names,Road,1,FALSE,Signs_Road Names_Road,Signs_Road Names_Road,add_road,location,Location location location!
+Signs,Road Names,Street,1,FALSE,Signs_Road Names_Street,Signs_Road Names_Street,add_road,location,Location location location!
+Signs,Road Names,Way,2,FALSE,Signs_Road Names_Way,Signs_Road Names_Way,add_road,location,Location location location!
+Van,Makes,DAF,1,FALSE,Van_Makes_DAF,Van_Makes_DAF,badge,vans_man,A vans man!
+Van,Makes,IVECO,1,FALSE,Van_Makes_IVECO,Van_Makes_IVECO,badge,vans_man,A vans man!
+Van,Makes,MAN,1,FALSE,Van_Makes_MAN,Van_Makes_MAN,badge,vans_man,A vans man!
+Van,Makes,MERCEDES-BENZ,1,FALSE,Van_Makes_MERCEDES-BENZ,Van_Makes_MERCEDES-BENZ,badge,vans_man,A vans man!
+Van,Makes,SCANIA,1,FALSE,Van_Makes_SCANIA,Van_Makes_SCANIA,badge,vans_man,A vans man!
+Van,Makes,SCHMITZ,1,FALSE,Van_Makes_SCHMITZ,Van_Makes_SCHMITZ,badge,vans_man,A vans man!
+Van,Makes,VOLVO,1,FALSE,Van_Makes_VOLVO,Van_Makes_VOLVO,badge,vans_man,A vans man!
+Van,Other,Amazon Prime,1,FALSE,Van_Other_Amazon Prime,Van_Other_Amazon Prime,local_shipping,other,All the others!
+Van,Other,DHL,1,FALSE,Van_Other_DHL,Van_Other_DHL,local_shipping,other,All the others!
+Van,Other,DPD,2,FALSE,Van_Other_DPD,Van_Other_DPD,local_shipping,other,All the others!
+Van,Other,Evri,1,FALSE,Van_Other_Evri,Van_Other_Evri,local_shipping,other,All the others!
+Van,Other,Royal Mail,1,FALSE,Van_Other_Royal Mail,Van_Other_Royal Mail,local_shipping,other,All the others!
+Van,Other,AA/RAC,1,FALSE,Van_Other_AA/RAC,Van_Other_AA/RAC,local_shipping,other|park_mate,All the others!|You can't park there mate!
+Van,Other,Bodyless,2,FALSE,Van_Other_Bodyless,Van_Other_Bodyless,local_shipping,other,All the others!
+Van,Other,Culina,1,FALSE,Van_Other_Culina,Van_Other_Culina,local_shipping,other,All the others!
+Van,Other,Eddie Stobart,1,FALSE,Van_Other_Eddie Stobart,Van_Other_Eddie Stobart,local_shipping,other,All the others!
+Van,Other,Fast Food Truck,1,FALSE,Van_Other_Fast Food Truck,Van_Other_Fast Food,local_shipping,other|eating,All the others!|Eatings cheatin'!
+Van,Other,Power (Electric/Gas),1,FALSE,Van_Other_Power (Electric/Gas),Van_Other_Power,local_shipping,other,All the others!
+Van,Other,Water Company,1,FALSE,Van_Other_Water Company,Van_Other_Water Company,local_shipping,other,All the others!
+Van,Supermarket,Aldi,1,FALSE,Van_Supermarket_Aldi,Van_Supermarkets_Aldi,shopping_cart,little_help,Every little helps!
+Van,Supermarket,ASDA,1,FALSE,Van_Supermarket_ASDA,Van_Supermarkets_ASDA,shopping_cart,little_help,Every little helps!
+Van,Supermarket,Co-Op,2,FALSE,Van_Supermarket_Co-Op,Van_Supermarkets_Co-Op,shopping_cart,little_help,Every little helps!
+Van,Supermarket,Iceland,1,FALSE,Van_Supermarket_Iceland,Van_Supermarkets_Iceland,shopping_cart,little_help,Every little helps!
+Van,Supermarket,Lidl,1,FALSE,Van_Supermarket_Lidl,Van_Supermarkets_Lidl,shopping_cart,little_help,Every little helps!
+Van,Supermarket,Marks & Spencer,1,FALSE,Van_Supermarket_Marks & Spencer,Van_Supermarkets_Marks & Spencer,shopping_cart,little_help,Every little helps!
+Van,Supermarket,Morrisons,1,FALSE,Van_Supermarket_Morrisons,Van_Supermarkets_Morrisons,shopping_cart,little_help,Every little helps!
+Van,Supermarket,Ocado,1,FALSE,Van_Supermarket_Ocado,Van_Supermarkets_Ocado,shopping_cart,little_help,Every little helps!
+Van,Supermarket,Sainsbury’s,1,FALSE,Van_Supermarket_Sainsbury’s,Van_Supermarkets_Sainsbury’s,shopping_cart,little_help,Every little helps!
+Van,Supermarket,TESCO,1,FALSE,Van_Supermarket_TESCO,Van_Supermarkets_TESCO,shopping_cart,little_help,Every little helps!
+Van,Supermarket,Waitrose,1,FALSE,Van_Supermarket_Waitrose,Van_Supermarkets_Waitrose,shopping_cart,little_help,Every little helps!
+Vehicle - Other,Bus & Coaches,National Express,2,FALSE,Vehicle - Other_Bus & Coaches_National Express,Vehicle - Other_Bus & Coaches_National Express,airport_shuttle,bus_coach,Bus-ted!
+Vehicle - Other,Bus & Coaches,Coach (Other),1,FALSE,Vehicle - Other_Bus & Coaches_Coach (Other),Vehicle - Other_Bus & Coaches_Coach (Other),airport_shuttle,bus_coach,Bus-ted!
+Vehicle - Other,Bus & Coaches,Double Decker Bus,2,FALSE,Vehicle - Other_Bus & Coaches_Double Decker Bus,Vehicle - Other_Bus & Coaches_Double,airport_shuttle,bus_coach,Bus-ted!
+Vehicle - Other,Bus & Coaches,Single Decker Bus,2,FALSE,Vehicle - Other_Bus & Coaches_Single Decker Bus,Vehicle - Other_Bus & Coaches_Single,airport_shuttle,bus_coach,Bus-ted!
+Vehicle - Other,Cyclists,Cyclist with a helmet,1,FALSE,Vehicle - Other_Cyclists_Cyclist with a helmet,Vehicle - Other_Cyclists_Cyclist helmet,pedal_bike,bike,On yer bike!
+Vehicle - Other,Cyclists,Cyclist without a helmet,1,FALSE,Vehicle - Other_Cyclists_Cyclist without a helmet,Vehicle - Other_Cyclists_Cyclist no helmet,pedal_bike,bike,On yer bike!
+Vehicle - Other,Cyclists,Electric Bike/Scooter,3,FALSE,Vehicle - Other_Cyclists_Electric Bike/Scooter,Vehicle - Other_Cyclists_Electric Bike,pedal_bike,bike|wavelength,On yer bike!|Same wavelength!
+Vehicle - Other,Emergency Vehicles,Ambulance,2,FALSE,Vehicle - Other_Emergency Vehicles_Ambulance,Vehicle - Other_Emergency Vehicles_Ambulance,emergency,blues_twos,Blues and twos!
+Vehicle - Other,Emergency Vehicles,Fire Engine,4,FALSE,Vehicle - Other_Emergency Vehicles_Fire Engine,Vehicle - Other_Emergency Vehicles_Fire,emergency,blues_twos,Blues and twos!
+Vehicle - Other,Emergency Vehicles,Police Car,3,FALSE,Vehicle - Other_Emergency Vehicles_Police Car,Vehicle - Other_Emergency Vehicles_Police,emergency,blues_twos,Blues and twos!
+Vehicle - Other,Flying Vehicles,Commercial Aeroplane,2,FALSE,Vehicle - Other_Flying Vehicles_Commercial Aeroplane,Vehicle - Other_Flying Vehicles_Commercial Aeroplane,flight,flying,Air today gone tomorrow!
+Vehicle - Other,Flying Vehicles,Other Non-Commercial,4,FALSE,Vehicle - Other_Flying Vehicles_Other Non-Commercial,Vehicle - Other_Flying Vehicles_Other Non-Commercial,flight,flying,Air today gone tomorrow!
+Vehicle - Other,Misc,Boat/Canoe/Kayak,3,FALSE,Vehicle - Other_Misc_Boat/Canoe/Kayak,Vehicle - Other_Misc_Boat,commute,,
+Vehicle - Other,Misc,Broken down vehicle,2,FALSE,Vehicle - Other_Misc_Broken down vehicle,Vehicle - Other_Misc_Broken down,commute,park_mate,You can't park there mate!
+Vehicle - Other,Misc,Caravan,1,FALSE,Vehicle - Other_Misc_Caravan,Vehicle - Other_Misc_Caravan,commute,,
+Vehicle - Other,Misc,Car transporter,1,FALSE,Vehicle - Other_Misc_Car transporter,Vehicle - Other_Car Transporter,commute,,
+Vehicle - Other,Misc,Construction Vehicle,2,FALSE,Vehicle - Other_Misc_Construction Vehicle,Vehicle - Other_Misc_Construction,commute,builder,Bob the builder!
+Vehicle - Other,Misc,Horse Box,3,FALSE,Vehicle - Other_Misc_Horse Box,Vehicle - Other_Misc_Horse,commute,animals,Animal crackers!
+Vehicle - Other,Misc,Motorhome,1,FALSE,Vehicle - Other_Misc_Motorhome,Vehicle - Other_Misc_Motorhome,commute,,
+Vehicle - Other,Misc,Pram,3,FALSE,Vehicle - Other_Misc_Pram,Vehicle - Other_Misc_Pram,commute,,
+Vehicle - Other,Misc,Taxi,1,FALSE,Vehicle - Other_Misc_Taxi,Vehicle - Other_Misc_Taxi (sign on top),commute,,
+Vehicle - Other,Misc,Wheelchair,4,FALSE,Vehicle - Other_Misc_Wheelchair,Vehicle - Other_Misc_Wheelchair,commute,,
+Vehicle - Other,Motorcycles,Bike: Black,1,FALSE,Vehicle - Other_Motorcycles_Bike: Black,Vehicle - Other_Motorcycles_Bike: Black,two_wheeler,bike|rainbow,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Bike: Blue,2,FALSE,Vehicle - Other_Motorcycles_Bike: Blue,Vehicle - Other_Motorcycles_Bike: Blue,two_wheeler,bike|rainbow,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Bike: Other,2,FALSE,Vehicle - Other_Motorcycles_Bike: Other,Vehicle - Other_Motorcycles_Bike: Other,two_wheeler,bike|rainbow,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Bike: Red,2,FALSE,Vehicle - Other_Motorcycles_Bike: Red,Vehicle - Other_Motorcycles_Bike: Red,two_wheeler,bike|rainbow,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Bike: Tandem,3,FALSE,Vehicle - Other_Motorcycles_Bike: Tandem,Vehicle - Other_Motorcycles_Bike: Tandem,two_wheeler,bike|rainbow,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Helmet: Black,1,FALSE,Vehicle - Other_Motorcycles_Helmet: Black,Vehicle - Other_Motorcycles_Helmet: Black,sports_motorsports,bike|rainbow,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Helmet: Other,1,FALSE,Vehicle - Other_Motorcycles_Helmet: Other,Vehicle - Other_Motorcycles_Helmet: Other,sports_motorsports,bike|rainbow,On yer bike!|Over the rainbow!
+Vehicle - Other,Motorcycles,Helmet: White,1,FALSE,Vehicle - Other_Motorcycles_Helmet: White,Vehicle - Other_Motorcycles_Helmet: White,sports_motorsports,bike|rainbow,On yer bike!|Over the rainbow!
