@@ -288,7 +288,6 @@ const Map<String, String> achievementLabels = {
   'baggage': '🧳 Emotional baggage!',
   'do_it': '✅ Do it!',
   'top': '👕 Top of the tops!',
-  'colour': '🌈 Over the rainbow!',
   'sport': '🏃 Good sport!',
   'hair': '💇 Hair today gone tomorrow!',
   'naturel': '🌿 Au naturel!',
