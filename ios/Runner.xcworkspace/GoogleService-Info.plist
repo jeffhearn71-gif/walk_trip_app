@@ -9,7 +9,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.jeffhearn.walktrip</string>
+	<string>com.jeffhearn.walkTripApp</string>
 	<key>PROJECT_ID</key>
 	<string>walk-trip-app</string>
 	<key>STORAGE_BUCKET</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:289887305396:ios:1b9816296ef206afbc61e1</string>
+	<string>1:289887305396:ios:8609debdd496ea82bc61e1</string>
 </dict>
 </plist>
