@@ -150,9 +150,9 @@ Parks & Nature,Leaves,Colour: Brown,1,FALSE,Parks & Nature_Leaves_Colour: Brown,
 Parks & Nature,Leaves,Colour: Red,1,FALSE,Parks & Nature_Leaves_Colour: Red,Parks & Nature_Leaves_Colour: Red,nest_eco_leaf,naturel|rainbow,Au naturel!|Over the rainbow!
 Parks & Nature,Leaves,Colour: Two-tone,2,FALSE,Parks & Nature_Leaves_Colour: Two-tone,Parks & Nature_Leaves_Colour: Two-tone,nest_eco_leaf,naturel|rainbow,Au naturel!|Over the rainbow!
 Parks & Nature,Leaves,Colour: Yellow,1,FALSE,Parks & Nature_Leaves_Colour: Yellow,Parks & Nature_Leaves_Colour: Yellow,nest_eco_leaf,naturel|rainbow,Au naturel!|Over the rainbow!
-Parks & Nature,Playground,Ball,3,FALSE,Parks & Nature_Playground_Ball,Parks & Nature_Playground_Ball,child_care,naturel,Au naturel!
+Parks & Nature,Playground,Ball,3,FALSE,Parks & Nature_Playground_Ball,Parks & Nature_Playground_Ball,child_care,naturel|sport,Au naturel!|Good sport!
 Parks & Nature,Playground,Equipment,2,FALSE,Parks & Nature_Playground_Equipment,Parks & Nature_Playground_Equipment,child_care,naturel,Au naturel!
-Parks & Nature,Playground,Football Posts,2,FALSE,Parks & Nature_Playground_Football Posts,Parks & Nature_Playground_Football Posts,child_care,naturel,Au naturel!
+Parks & Nature,Playground,Football Posts,2,FALSE,Parks & Nature_Playground_Football Posts,Parks & Nature_Playground_Football Posts,child_care,naturel|sport,Au naturel!|Good sport!
 Parks & Nature,The Outdoors,Expanse of water,2,FALSE,Parks & Nature_The Outdoors_Expanse of water,Parks & Nature_The Outdoors_Expanse,park,naturel,Au naturel!
 Parks & Nature,The Outdoors,Mistletoe,2,FALSE,Parks & Nature_The Outdoors_Mistletoe,Parks & Nature_The Outdoors_Mistletoe,park,naturel,Au naturel!
 Parks & Nature,The Outdoors,Plastic bag in tree,2,FALSE,Parks & Nature_The Outdoors_Plastic bag in tree,Parks & Nature_The Outdoors_Plastic bag,park,naturel,Au naturel!
@@ -163,10 +163,10 @@ Parks & Nature,Trees,Oak,2,FALSE,Parks & Nature_Trees_Oak,Parks & Nature_Trees_O
 People,Activity,Carrying a bag,2,FALSE,People_Activity_Carrying a bag,People_Activity_Carrying bag,arrow_circle_up,baggage|do_it,Emotional baggage!|Do it!
 People,Activity,Drinking Tea or Coffee,1,FALSE,People_Activity_Drinking Tea or Coffee,People_Activity_Coffee,arrow_circle_up,eating|do_it,Eatings cheatin'!|Do it!
 People,Activity,Eating,1,FALSE,People_Activity_Eating,People_Activity_Eating,arrow_circle_up,eating|do_it,Eatings cheatin'!|Do it!
-People,Activity,Holding hands,3,FALSE,People_Activity_Holding hands,People_Activity_Holding hands,arrow_circle_up,,
-People,Activity,Jogging,2,FALSE,People_Activity_Jogging,People_Activity_Jogging,arrow_circle_up,,
-People,Activity,Using phone,1,FALSE,People_Activity_Using phone,People_Activity_Phone,arrow_circle_up,wavelength,Same wavelength!
-People,Activity,Vaping/Smoking,2,FALSE,People_Activity_Vaping/Smoking,People_Activity_Vaping,arrow_circle_up,,
+People,Activity,Holding hands,3,FALSE,People_Activity_Holding hands,People_Activity_Holding hands,arrow_circle_up,do_it,Do it!
+People,Activity,Jogging,2,FALSE,People_Activity_Jogging,People_Activity_Jogging,arrow_circle_up,do_it,Do it!
+People,Activity,Using phone,1,FALSE,People_Activity_Using phone,People_Activity_Phone,arrow_circle_up,wavelength|do_it,Same wavelength!|Do it!
+People,Activity,Vaping/Smoking,2,FALSE,People_Activity_Vaping/Smoking,People_Activity_Vaping,arrow_circle_up,do_it,Do it!
 People,Clothes,Colour: Green,3,FALSE,People_Clothes_Colour: Green,People_Clothes_Green,apparel,top|rainbow|dress,Top of the tops!|Over the rainbow!|Dress for success!
 People,Clothes,Colour: Orange,3,FALSE,People_Clothes_Colour: Orange,People_Clothes_Orange,apparel,top|rainbow|dress,Top of the tops!|Over the rainbow!|Dress for success!
 People,Clothes,Colour: Purple,3,FALSE,People_Clothes_Colour: Purple,People_Clothes_Purple,apparel,top|rainbow|dress,Top of the tops!|Over the rainbow!|Dress for success!
